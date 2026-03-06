@@ -1,0 +1,4 @@
+Sitemap: https://julialang.github.io/SecurityAdvisories.jl/sitemap.xml
+
+User-agent: *
+Disallow:
