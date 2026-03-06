@@ -38,14 +38,12 @@ append&#33;&#40;whitelist&#91;:removed_elements&#93;, &#91;&quot;math&quot;, &qu
 
 <script>
   (function () {
-    // Theme toggle
     var toggle = document.getElementById('theme-toggle');
     if (toggle) toggle.addEventListener('click', function () {
       var t = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
       document.documentElement.setAttribute('data-theme', t);
       localStorage.setItem('theme', t);
     });
-    // Mobile nav - dropdown menu
     var navBtn = document.getElementById('nav-toggle');
     var navPanel = document.getElementById('topbar-nav');
     if (navBtn) navBtn.addEventListener('click', function(e) {
@@ -62,7 +60,6 @@ append&#33;&#40;whitelist&#91;:removed_elements&#93;, &#91;&quot;math&quot;, &qu
         link.addEventListener('click', function() { navPanel.classList.remove('open'); });
       });
     }
-    // Search modal
     var overlay = document.getElementById('search-overlay');
     var loaded = false;
     var pagefindAvailable = typeof PagefindUI !== 'undefined';
@@ -102,7 +99,6 @@ append&#33;&#40;whitelist&#91;:removed_elements&#93;, &#91;&quot;math&quot;, &qu
       if (e.key === 'Escape' && overlay.classList.contains('open')) closeSearch();
     });
 
-    // Back to top – show when scrolling up or near bottom, auto-fade after 2s
     var btt = document.getElementById('back-to-top');
     if (btt) {
       var lastScrollY = window.scrollY;
