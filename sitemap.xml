@@ -2,7 +2,1813 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-230/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-44/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-266/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-236/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-216/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-51/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/HTTP/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-226/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-187/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-75/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-254/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-119/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-173/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-39/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-95/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-252/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-3/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-104/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-271/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-110/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-304/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/SLICOT_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-272/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-172/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-218/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-239/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-130/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-160/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-238/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-73/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-325/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/GitForge/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-10/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-274/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-289/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-268/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-93/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/FFplay_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-8/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-128/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-277/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-243/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-131/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-283/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-281/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-56/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-188/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Libuuid_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/LAPACK_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-180/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-12/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-85/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-135/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-257/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-298/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-112/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-165/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-260/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-49/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-318/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-305/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-324/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-276/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-215/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-64/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-193/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-6/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-270/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-174/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-101/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-114/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/ReferenceBLAS_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-143/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-21/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-287/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-240/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-63/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-307/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-61/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/FFMPEG_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-145/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-69/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-208/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-41/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-168/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/util_linux_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-138/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-317/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-248/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-78/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-33/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-24/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-48/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-57/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-169/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-126/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/libssh_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-18/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-43/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-109/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-313/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-144/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-292/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-314/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-206/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-71/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/ImageMagick_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-229/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-123/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-66/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-278/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-27/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-280/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/OpenBLAS_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-209/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-129/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-221/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-249/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-320/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/LAPACK32_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-118/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-190/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-331/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-52/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Tar_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-279/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-259/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-72/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-23/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-284/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-50/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-94/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/libpng_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-102/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-35/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-227/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-19/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-108/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-197/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-198/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-220/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-234/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-149/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-164/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-13/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-294/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-329/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/HarfBuzz_ICU_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-286/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-60/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-155/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/IntelOpenMP_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/LibCURL_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-37/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-308/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-15/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-111/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-89/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Expat_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Poppler_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-258/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/rsync_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-97/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-233/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-31/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-232/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Dbus_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-288/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-219/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-151/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-45/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-84/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-88/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-113/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-194/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-17/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-140/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-176/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-256/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/HTMLSanitizer/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Hwloc_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-67/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Bzip2_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-295/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-146/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-11/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-54/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-192/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-217/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-25/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-264/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/JpegTurbo_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-141/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-157/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-87/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-312/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Gettext_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-201/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-30/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-267/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-182/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-166/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-29/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-76/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-170/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-255/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-137/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-2/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-161/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-5/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-309/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-186/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-202/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-247/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-156/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-299/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-183/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-178/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-26/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-302/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-321/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-181/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-265/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-311/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-82/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-106/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-297/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-273/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-62/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-222/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-152/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-296/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-74/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-86/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-115/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/HarfBuzz_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/OpenBLASHighCoreCount_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-262/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-47/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-120/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Registrator/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-196/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-189/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-285/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-20/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-107/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/ReferenceBLAS32_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-301/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/XSLT_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-16/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-148/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-213/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-282/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-261/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/MbedTLS_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-150/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-175/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-132/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-332/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-98/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-147/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-323/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-291/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-245/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-40/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-303/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-125/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-28/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-250/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-100/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-103/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Cairo_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-70/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-77/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-99/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-122/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-81/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-4/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-55/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-244/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-80/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-310/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-228/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-167/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-46/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-22/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-211/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/XML2_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-127/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-241/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-34/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-1/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-306/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-315/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-79/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/FriBidi_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-68/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-212/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-290/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/LibGit2_jll/index.html</loc>
     <lastmod>2026-03-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -14,13 +1820,505 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-200/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-185/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-53/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/libjulia_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-231/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-327/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/GitHub/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-207/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Libmount_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Libksba_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-136/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-105/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-121/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-328/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-36/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-14/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-117/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-205/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-224/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-42/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-263/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-163/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-184/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-293/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-65/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-139/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-171/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-179/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-316/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-124/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/LibArchive_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/OpenSSH_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-203/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-225/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-133/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://julialang.github.io/SecurityAdvisories.jl/about/index.html</loc>
     <lastmod>2026-03-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/index.html</loc>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-7/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-246/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-319/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-59/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-269/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-322/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-116/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-253/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-90/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-158/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-275/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-9/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-223/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-330/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-91/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-38/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Glib_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-199/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-195/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-300/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-210/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-191/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/GnuPG_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-242/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/URIs/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-92/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-134/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-177/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-237/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-251/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-235/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/LibSSH2_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Python_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-142/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-204/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/CURL_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-58/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-326/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-214/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-162/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/Libtiff_jll/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-96/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-32/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-153/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-83/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-154/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/advisories/JLSEC-2025-159/index.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://julialang.github.io/SecurityAdvisories.jl/packages/OpenBLAS32_jll/index.html</loc>
     <lastmod>2026-03-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
