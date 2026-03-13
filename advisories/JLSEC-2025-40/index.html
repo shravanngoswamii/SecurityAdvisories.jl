@@ -175,12 +175,18 @@ HTTP.header(res, <span class="hljs-string">&quot;X-Foo&quot;</span>) = <span cla
 
 <script>
   (function () {
+    function applyTheme(t) {
+      document.documentElement.setAttribute('data-theme', t);
+      document.documentElement.style.backgroundColor = t === 'dark' ? '#1a1b2e' : '#f8f9fb';
+      document.documentElement.style.colorScheme = t === 'dark' ? 'dark' : 'light';
+    }
+
     window.addEventListener('pageshow', function (e) {
       if (e.persisted) {
         try {
           var t = localStorage.getItem('theme') ||
             (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-          document.documentElement.setAttribute('data-theme', t);
+          applyTheme(t);
         } catch (e) {}
       }
     });
@@ -188,7 +194,7 @@ HTTP.header(res, <span class="hljs-string">&quot;X-Foo&quot;</span>) = <span cla
     var toggle = document.getElementById('theme-toggle');
     if (toggle) toggle.addEventListener('click', function () {
       var t = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-      document.documentElement.setAttribute('data-theme', t);
+      applyTheme(t);
       try { localStorage.setItem('theme', t); } catch(e) {}
     });
     var navBtn = document.getElementById('nav-toggle');
