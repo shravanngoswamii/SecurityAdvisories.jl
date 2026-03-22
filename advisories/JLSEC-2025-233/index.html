@@ -42,7 +42,7 @@
             <a href="/SecurityAdvisories.jl/advisories/">Advisories</a>
             <a href="/SecurityAdvisories.jl/packages/">Packages</a>
             <a href="/SecurityAdvisories.jl/about/">About</a>
-            <a href="https://github.com/JuliaLang/SecurityAdvisories.jl" target="_blank" rel="noopener">
+            <a href="https://github.com/JuliaLang/SecurityAdvisories.jl" target="_blank" rel="noopener nofollow">
                 GitHub
                 <svg class="ext-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
                     stroke-linecap="round" stroke-linejoin="round">
@@ -97,7 +97,7 @@
     </div>
 </div>
 
-<main class="content-main" data-pagefind-body><div class="franklin-content"><div class="advisory-detail-header"><span class="advisory-id-large">JLSEC-2025-233</span> <h1>Padding oracle through timing of cipher error reporting</h1><div class="detail-actions"><a href="https://github.com/JuliaLang/SecurityAdvisories.jl/blob/main/advisories/published/2025/JLSEC-2025-233.md">Source</a><a href="https://github.com/JuliaLang/SecurityAdvisories.jl/edit/main/advisories/published/2025/JLSEC-2025-233.md">Edit</a><a href="https://github.com/JuliaLang/SecurityAdvisories.jl/commits/main/advisories/published/2025/JLSEC-2025-233.md">History</a><a href="https://osv.dev/vulnerability/JLSEC-2025-233" target="_blank" rel="noopener">OSV</a><a href="https://api.osv.dev/v1/vulns/JLSEC-2025-233" target="_blank" rel="noopener">JSON (OSV)</a></div></div><dl class="meta-list"><div class="meta-row"><dt>Published</dt><dd><time datetime="2025-10-21T15:15:39Z" data-tip="2025-10-21T15:15:39Z">Oct 21, 2025</time></dd></div><div class="meta-row"><dt>Added to JLSEC</dt><dd><time datetime="2025-11-21T15:59:04Z" data-tip="2025-11-21T15:59:04Z">Nov 21, 2025</time></dd></div><div class="meta-row"><dt>Modified</dt><dd><time datetime="2025-11-21T15:59:04Z" data-tip="2025-11-21T15:59:04Z">Nov 21, 2025</time></dd></div><div class="meta-row"><dt>Affected Packages</dt><dd><a class="pkg-tag" href="/SecurityAdvisories.jl/packages/MbedTLS_jll/">MbedTLS_jll</a> <span style="font-size:0.78rem;color:var(--c-text-muted)">*</span><br></dd></div><div class="meta-row"><dt>Aliases / Upstream</dt><dd><a href="https://nvd.nist.gov/vuln/detail/CVE-2025-59438">CVE-2025-59438</a> </dd></div></dl><div class="detail-body"><h2 id="vulnerability"><a href="#vulnerability" class="header-anchor">Vulnerability</a></h2>
+<main class="content-main" data-pagefind-body><div class="franklin-content"><div class="advisory-detail-header"><span class="advisory-id-large">JLSEC-2025-233</span> <h1>Padding oracle through timing of cipher error reporting</h1><div class="detail-actions"><a href="https://github.com/JuliaLang/SecurityAdvisories.jl/blob/main/advisories/published/2025/JLSEC-2025-233.md" rel="nofollow">Source</a><a href="https://github.com/JuliaLang/SecurityAdvisories.jl/edit/main/advisories/published/2025/JLSEC-2025-233.md" rel="nofollow">Edit</a><a href="https://github.com/JuliaLang/SecurityAdvisories.jl/commits/main/advisories/published/2025/JLSEC-2025-233.md" rel="nofollow">History</a><a href="https://osv.dev/vulnerability/JLSEC-2025-233" target="_blank" rel="noopener nofollow">OSV</a><a href="https://api.osv.dev/v1/vulns/JLSEC-2025-233" target="_blank" rel="noopener nofollow">JSON (OSV)</a></div></div><dl class="meta-list"><div class="meta-row"><dt>JLSEC Published</dt><dd><time datetime="2025-11-21T15:59:04Z" data-tip="2025-11-21T15:59:04Z">Nov 21, 2025</time></dd></div><div class="meta-row"><dt>Modified</dt><dd><time datetime="2025-11-21T15:59:04Z" data-tip="2025-11-21T15:59:04Z">Nov 21, 2025</time></dd></div><div class="meta-row"><dt>Affected Packages</dt><dd><a class="pkg-tag" href="/SecurityAdvisories.jl/packages/MbedTLS_jll/">MbedTLS_jll</a> <span style="font-size:0.78rem;color:var(--c-text-muted)">*</span><br></dd></div><div class="meta-row"><dt>Aliases / Upstream</dt><dd><a href="https://nvd.nist.gov/vuln/detail/CVE-2025-59438" rel="nofollow">CVE-2025-59438</a> </dd></div></dl><div class="detail-body"><h2 id="vulnerability"><a href="#vulnerability" class="header-anchor">Vulnerability</a></h2>
 <p>In symmetric encryption modes that involve padding, if an attacker can submit ciphertexts for decryption and learn whether the padding is valid, this provides partial information about the plaintext. If the attacker can also submit input that the victim encrypts together with a secret, this can allow the attacker to recover the whole secret part. This is known as a padding oracle attack. The attacker may learn the validity of the padding directly or indirectly, for example through timing.</p>
 <p>In the Mbed TLS legacy API &#40;<code>mbedtls_cipher_crypt&#40;&#41;</code>, <code>mbedtls_cipher_finish&#40;&#41;</code>&#41;, the problematic modes are ECB and CBC with any padding other than <code>NONE</code>. In the PSA Crypto API &#40;<code>psa_cipher_decrypt&#40;&#41;</code>, <code>psa_cipher_finish&#40;&#41;</code>&#41;, the problematic algorithm is <code>PSA_ALG_CBC_PKCS7</code>.</p>
 <p>Mbed TLS takes care to check the padding in constant time inside the legacy cipher modules, so <code>mbedtls_cipher_crypt&#40;&#41;</code> and <code>mbedtls_cipher_finish&#40;&#41;</code> are not vulnerable. However, application code may be vulnerable if it handles errors from these functions in a way that is not constant-time.</p>
@@ -115,7 +115,7 @@
 <p>Affected users should upgrade to Mbed TLS 3.6.5 or TF-PSA-Crypto 1.0.0 or above.</p>
 <p>Additionally, applications using <code>mbedtls_cipher_crypt&#40;&#41;</code> or <code>mbedtls_cipher_finish&#40;&#41;</code> with a CBC or EBC mode with padding should review their error handling, and should consider switching to the new function <code>mbedtls_cipher_finish_padded&#40;&#41;</code> which simplifies the handling of invalid-padding conditions.</p>
 <p>Applications doing decryption with <code>PSA_ALG_CBC_PKCS7</code> should handle errors carefully if local timing attacks are a concern. &#40;This also applies to asymmetric decryption with <code>PSA_ALG_RSA_PKCS1V15_CRYPT</code>.&#41;</p>
-</div><h3>References</h3><ul><li><a href="https://mbed-tls.readthedocs.io/en/latest/security-advisories/mbedtls-security-advisory-2025-10-invalid-padding-error/">https://mbed-tls.readthedocs.io/en/latest/security-advisories/mbedtls-security-advisory-2025-10-invalid-padding-error/</a></li><li><a href="https://mbed-tls.readthedocs.io/en/latest/tech-updates/security-advisories/">https://mbed-tls.readthedocs.io/en/latest/tech-updates/security-advisories/</a></li></ul>
+</div><h3>References</h3><ul><li><a href="https://mbed-tls.readthedocs.io/en/latest/security-advisories/mbedtls-security-advisory-2025-10-invalid-padding-error/" rel="nofollow">https://mbed-tls.readthedocs.io/en/latest/security-advisories/mbedtls-security-advisory-2025-10-invalid-padding-error/</a></li><li><a href="https://mbed-tls.readthedocs.io/en/latest/tech-updates/security-advisories/" rel="nofollow">https://mbed-tls.readthedocs.io/en/latest/tech-updates/security-advisories/</a></li></ul>
 <!-- page_foot.html must exist for Franklin.jl's build_page. It is injected inside the content wrapper. Leave it empty if unused. -->
  </div></main>
 
@@ -123,11 +123,11 @@
   <div class="footer-inner">
     <p>&copy; Julia Security Team</p>
     <p>
-      <a href="https://github.com/JuliaLang/SecurityAdvisories.jl" target="_blank" rel="noopener">Source</a>
+      <a href="https://github.com/JuliaLang/SecurityAdvisories.jl" target="_blank" rel="noopener nofollow">Source</a>
       &nbsp;&middot;&nbsp;
       <a href="/SecurityAdvisories.jl/feed.xml">RSS</a>
       &nbsp;&middot;&nbsp;
-      Built with <a href="https://github.com/JuliaDocs/Franklin.jl">Franklin</a>
+      Built with <a href="https://github.com/JuliaDocs/Franklin.jl" rel="nofollow">Franklin</a>
     </p>
   </div>
 </footer>

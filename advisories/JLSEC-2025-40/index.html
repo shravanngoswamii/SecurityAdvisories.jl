@@ -42,7 +42,7 @@
             <a href="/SecurityAdvisories.jl/advisories/">Advisories</a>
             <a href="/SecurityAdvisories.jl/packages/">Packages</a>
             <a href="/SecurityAdvisories.jl/about/">About</a>
-            <a href="https://github.com/JuliaLang/SecurityAdvisories.jl" target="_blank" rel="noopener">
+            <a href="https://github.com/JuliaLang/SecurityAdvisories.jl" target="_blank" rel="noopener nofollow">
                 GitHub
                 <svg class="ext-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
                     stroke-linecap="round" stroke-linejoin="round">
@@ -97,7 +97,7 @@
     </div>
 </div>
 
-<main class="content-main" data-pagefind-body><div class="franklin-content"><div class="advisory-detail-header"><span class="advisory-id-large">JLSEC-2025-40</span> <h1>Header injection/Response splitting via header construction.</h1><div class="detail-actions"><a href="https://github.com/JuliaLang/SecurityAdvisories.jl/blob/main/advisories/published/2025/JLSEC-2025-40.md">Source</a><a href="https://github.com/JuliaLang/SecurityAdvisories.jl/edit/main/advisories/published/2025/JLSEC-2025-40.md">Edit</a><a href="https://github.com/JuliaLang/SecurityAdvisories.jl/commits/main/advisories/published/2025/JLSEC-2025-40.md">History</a><a href="https://osv.dev/vulnerability/JLSEC-2025-40" target="_blank" rel="noopener">OSV</a><a href="https://api.osv.dev/v1/vulns/JLSEC-2025-40" target="_blank" rel="noopener">JSON (OSV)</a></div></div><dl class="meta-list"><div class="meta-row"><dt>Published</dt><dd><time datetime="2025-10-10T12:51:29Z" data-tip="2025-10-10T12:51:29Z">Oct 10, 2025</time></dd></div><div class="meta-row"><dt>Added to JLSEC</dt><dd><time datetime="2025-10-14T04:37:19Z" data-tip="2025-10-14T04:37:19Z">Oct 14, 2025</time></dd></div><div class="meta-row"><dt>Modified</dt><dd><time datetime="2025-10-31T18:41:21Z" data-tip="2025-10-31T18:41:21Z">Oct 31, 2025</time></dd></div><div class="meta-row"><dt>Affected Packages</dt><dd><a class="pkg-tag" href="/SecurityAdvisories.jl/packages/HTTP/">HTTP</a> <span style="font-size:0.78rem;color:var(--c-text-muted)">&lt; 1.10.19</span><br></dd></div><div class="meta-row"><dt>Aliases / Upstream</dt><dd><a href="https://github.com/advisories/GHSA-h3x8-ppwj-6vcj">GHSA-h3x8-ppwj-6vcj</a> <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-61689">CVE-2025-61689</a> </dd></div></dl><div class="detail-body"><p>HTTP.jl did not validate header names/values for illegal characters, allowing CRLF-based header injection and response splitting.</p>
+<main class="content-main" data-pagefind-body><div class="franklin-content"><div class="advisory-detail-header"><span class="advisory-id-large">JLSEC-2025-40</span> <h1>Header injection/Response splitting via header construction.</h1><div class="detail-actions"><a href="https://github.com/JuliaLang/SecurityAdvisories.jl/blob/main/advisories/published/2025/JLSEC-2025-40.md" rel="nofollow">Source</a><a href="https://github.com/JuliaLang/SecurityAdvisories.jl/edit/main/advisories/published/2025/JLSEC-2025-40.md" rel="nofollow">Edit</a><a href="https://github.com/JuliaLang/SecurityAdvisories.jl/commits/main/advisories/published/2025/JLSEC-2025-40.md" rel="nofollow">History</a><a href="https://osv.dev/vulnerability/JLSEC-2025-40" target="_blank" rel="noopener nofollow">OSV</a><a href="https://api.osv.dev/v1/vulns/JLSEC-2025-40" target="_blank" rel="noopener nofollow">JSON (OSV)</a></div></div><dl class="meta-list"><div class="meta-row"><dt>JLSEC Published</dt><dd><time datetime="2025-10-14T04:37:19Z" data-tip="2025-10-14T04:37:19Z">Oct 14, 2025</time></dd></div><div class="meta-row"><dt>Modified</dt><dd><time datetime="2025-10-31T18:41:21Z" data-tip="2025-10-31T18:41:21Z">Oct 31, 2025</time></dd></div><div class="meta-row"><dt>Affected Packages</dt><dd><a class="pkg-tag" href="/SecurityAdvisories.jl/packages/HTTP/">HTTP</a> <span style="font-size:0.78rem;color:var(--c-text-muted)">&lt; 1.10.19</span><br></dd></div><div class="meta-row"><dt>Aliases / Upstream</dt><dd><a href="https://github.com/advisories/GHSA-h3x8-ppwj-6vcj" rel="nofollow">GHSA-h3x8-ppwj-6vcj</a> <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-61689" rel="nofollow">CVE-2025-61689</a> </dd></div></dl><div class="detail-body"><p>HTTP.jl did not validate header names/values for illegal characters, allowing CRLF-based header injection and response splitting.</p>
 <pre><code class="julia hljs"><span class="hljs-keyword">using</span> HTTP, Sockets
 
 <span class="hljs-keyword">function</span> handle_index(req::HTTP.Request)
@@ -155,11 +155,11 @@ HTTP.header(res, <span class="hljs-string">&quot;X-Foo&quot;</span>) = <span cla
   <div class="footer-inner">
     <p>&copy; Julia Security Team</p>
     <p>
-      <a href="https://github.com/JuliaLang/SecurityAdvisories.jl" target="_blank" rel="noopener">Source</a>
+      <a href="https://github.com/JuliaLang/SecurityAdvisories.jl" target="_blank" rel="noopener nofollow">Source</a>
       &nbsp;&middot;&nbsp;
       <a href="/SecurityAdvisories.jl/feed.xml">RSS</a>
       &nbsp;&middot;&nbsp;
-      Built with <a href="https://github.com/JuliaDocs/Franklin.jl">Franklin</a>
+      Built with <a href="https://github.com/JuliaDocs/Franklin.jl" rel="nofollow">Franklin</a>
     </p>
   </div>
 </footer>
